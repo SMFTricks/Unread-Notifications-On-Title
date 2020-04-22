@@ -11,8 +11,6 @@ Original author: [url=https://www.simplemachines.org/community/index.php?action=
 [size=12pt][color=navy]Introduction[/color][/size]
 [size=8pt]Unread Notifications On Title will display the total (if any) of unread messages and alerts combined on the title of each user.[/size]
 
-[size=12pt][color=red]*NOTE[/color][/size]
-[size=10pt]Version [i]2.0[/i] and above are only compatible with [b]SMF 2.1[/b][/size]
 [hr]
 
 [size=12pt][color=purple][url=https://github.com/SMFTricks/Unread-Notifications-On-Title]GitHub[/url][/color][/size]
