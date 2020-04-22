@@ -9,7 +9,7 @@ Original author: [url=https://www.simplemachines.org/community/index.php?action=
 [hr]
 
 [size=12pt][color=navy]Introduction[/color][/size]
-[size=8pt]Unread Notifications On Title will display the total (if any) of unread messages and alerts combined on the title of each user.[/size]
+[size=8pt]Unread Notifications On Title will display the total (if any) of unread messages and alerts combined on the page title of each user.[/size]
 
 [hr]
 

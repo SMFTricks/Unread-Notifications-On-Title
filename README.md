@@ -9,7 +9,7 @@
 - Original developer: [grafitus](https://github.com/beratdogan)
 
 ## Introduction
-* Unread Notifications On Title will display the total (if any) of unread messages and alerts combined on the title of each user.
+* Unread Notifications On Title will display the total (if any) of unread messages and alerts combined on the page title of each user.
 
 ## Requirements
 * Unread Notifications On Title can be installed on SMF 2.1
