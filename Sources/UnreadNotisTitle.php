@@ -2,7 +2,7 @@
 
 /**
  * @package Unread Notifications On Title
- * @version 1.1.1
+ * @version 1.1.2
  * @author Diego Andrés <diegoandres_cortes@outlook.com>
  * @copyright Copyright (c) 2020, Diego Andrés
  * @license https://www.mozilla.org/en-US/MPL/2.0/
@@ -67,7 +67,7 @@ class UnreadNotisTitle
 		// Personal Messages
 		$this->_notifications += !$context['user']['is_guest'] ? $context['user']['unread_messages'] : 0;
 		// Mod Actions
-		$this->_notifications += !$context['user']['is_guest'] ? $context['open_mod_reports'] : 0;
+		$this->_notifications += !$context['user']['is_guest'] ? $context['total_mod_reports'] : 0;
 
 		// Allow other mods to add their notis
 		call_integration_hook('integrate_mod_unreadnotistitle', [&$this->_notifications]);
