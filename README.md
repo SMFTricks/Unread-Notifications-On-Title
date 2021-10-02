@@ -16,3 +16,6 @@
 
 ## How to install
 * You can install Unread Notifications On Title through the package manager of your forum administration.
+
+## Changelog
+You can find the changelog for Unread Notifications On Title on SMF Tricks: [Changelog](https://smftricks.com/index.php?topic=2204.0)

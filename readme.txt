@@ -13,4 +13,5 @@ Original author: [url=https://www.simplemachines.org/community/index.php?action=
 
 [hr]
 
+[size=12pt][color=navy][url=https://smftricks.com/index.php?topic=2204.0]Changelog[/url][/color][/size]
 [size=12pt][color=purple][url=https://github.com/SMFTricks/Unread-Notifications-On-Title]GitHub[/url][/color][/size]
