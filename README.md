@@ -1,21 +1,19 @@
- <p align="center">
-    <img src="https://smftricks.com/logos/logo.png">
- </p>
+![SMF Tricks - Free & Premium Mods and Themes for SMF](https://smftricks.com/logos/logo.png)
 
-## Unread Notifications On Title
-<img src="https://img.shields.io/badge/License-MPL 2.0-a05a3f?style=flat-square"> <img src="https://img.shields.io/badge/SMF-2.1-3f73a0?style=flat-square">
+# Unread Notifications On Title
+![License](https://img.shields.io/badge/License-MPL%202.0-248049) ![Hooks Only](https://img.shields.io/badge/Hooks%20Only-Yes-6041a3) ![SMF 2.1](https://img.shields.io/badge/SMF-2.1-3f73a0)
 
-- Developed by [Diego Andrés](https://github.com/DiegoAndresCortes)
-- Original developer: [grafitus](https://github.com/beratdogan)
+* Developed by [Diego Andrés](https://github.com/DiegoAndresCortes)
+* Original Developer: [Berat "grafitus" Dogan](https://github.com/beratdogan)
 
 ## Introduction
-* Unread Notifications On Title will display the total (if any) of unread messages and alerts combined on the page title of each user.
+Unread Notifications On Title will display the total (if any) of unread messages and alerts combined on the page title of each user.
 
-## Requirements
-* Unread Notifications On Title can be installed on SMF 2.1
-
-## How to install
-* You can install Unread Notifications On Title through the package manager of your forum administration.
-
-## Changelog
-You can find the changelog for Unread Notifications On Title on SMF Tricks: [Changelog](https://smftricks.com/index.php?topic=2204.0)
+### Features
+- Unread Messages
+- Unread Alerts
+- Mod Actions
+  - Plays nicely with [Unapproved Attachments, Posts and Topics in Mod](https://github.com/SMFTricks/Unapproved-Attachments-Posts-and-Topics-in-Mod)
+---
+### [Changelog](https://github.com/SMFTricks/Unread-Notifications-On-Title/blob/master/CHANGELOG.md)
+### [GitHub](https://github.com/SMFTricks/Unread-Notifications-On-Title)
