@@ -13,7 +13,7 @@
 #### 1.1 - 27 September 2021
 - ![New Feature](https://smftricks.com/assets/changelog/tag--plus.png) Added the mod reports/pending actions to the counter.
 - ![New Feature](https://smftricks.com/assets/changelog/tag--plus.png) Added a hook for other mods to integrate their notis.
-
+---
 #### 1.0 - 22 April 2020
 - ![New Feature](https://smftricks.com/assets/changelog/tag--plus.png) Initial Release for SMF 2.1.
 
